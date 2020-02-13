@@ -1,0 +1,24 @@
+Q7.
+multiple templates can change automatically.
+
+Q8
+repeating getting data from database , rendering. -> generic.views
+
+views.py last line 'result'->'polls:result'
+polls/templates/polls/detail.html
+line 5
+
+Q6.
+/polls/38/
+A page displaying "You're looking at question 38."
+
+/polls/38/results
+A page displaying "You're looking at the results of question 38."
+
+/polls/38/vote
+A page displaying "You're voting on question 38."
+
+str:
+Page Not Found
+
+change 'int:' to 'str:'
