@@ -18,7 +18,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==2.2.3
 networkx==2.4
-numpy==1.15.1
+numpy==1.22.0
 opencv-python==4.1.2.30
 pelican==4.2.0
 Pillow==6.1.0
